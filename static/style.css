@@ -45,6 +45,19 @@ body {
   height: 100vh;
 }
 
+.aboutbtn {
+  background-color: #000;
+  border: none;
+  outline: 0;
+  cursor: pointer;
+  padding: 8px 14px;
+  transition: .3s;
+  font-size: 17px;
+  color: #fff;
+  align-self: flex-start; /* added to align the button to the left */
+}
+
+
 .btn {
   background-color: inherit;
   border: none;
