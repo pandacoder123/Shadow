@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "^1.0.8",
+    "@tomphttp/bare-server-node": "^1.2.6",
+    "express": "^4.18.2"
+  },
+  "name": "shadow",
+  "version": "1.0.0",
+  "description": "Shadow instance",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [
+    "proxy",
+    "shadow"
+  ],
+  "author": "Shadow",
+  "license": "GPL-3.0-or-later"
+}
